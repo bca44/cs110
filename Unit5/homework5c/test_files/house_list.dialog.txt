@@ -1,0 +1,1 @@
+{'Griffindor': 4, 'Slytherin': 3, 'Ravenclaw': 2, 'Hufflepuff': 1}

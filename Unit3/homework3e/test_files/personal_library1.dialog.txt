@@ -1,0 +1,19 @@
+Enter the title, author, and pages of each book.
+End with a blank title.
+Title: <<The Great Gatsby>>
+Author: <<F. Scott Fitzgerald>>
+Pages: <<208>>
+Title: <<To Kill a Mockingbird>>
+Author: <<Harper Lee>>
+Pages: <<281>>
+Title: <<Pride and Prejudice>>
+Author: <<Jane Austen>>
+Pages: <<432>>
+Title: <<Frankenstein>>
+Author: <<Mark Shelley>>
+Pages: <<166>>
+Title: <<>>
+Enter an author to report on.
+Author: <<Mark Shelley>>
+You have read ``1;number-of-books;30`` books by ``Mark Shelley;author;10``.
+You have read ``166;number-of-pages;30`` pages by ``Mark Shelley;author2;10``.

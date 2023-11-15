@@ -1,0 +1,16 @@
+Date idea: <<Trip to Moab>>
+Date cost: <<100>>
+Date idea: <<Crepes in Paris>>
+Date cost: <<5000>>
+Date idea: <<Watch a movie>>
+Date cost: <<4>>
+Date idea: <<Study CS together>>
+Date cost: <<0>>
+Date idea: <<Creamery Kids Meals>>
+Date cost: <<12>>
+Date idea: <<>>
+Get max cost for date: <<15>>
+Here are all the dates below $``15;cost;20``:
+``- Watch a movie costs $4.
+- Study CS together costs $0.
+- Creamery Kids Meals costs $12.;date-list;60``

@@ -1,0 +1,3 @@
+Memphis: ['MarShon', 'Omri', 'DJ']
+LA: ['Marcin', 'Milos']
+Houston: ['Zhou', 'Kenny', 'Adrian', 'Vernon', 'Hakeem']

@@ -1,0 +1,7 @@
+Name: <<Julia>>
+``Julia;julia;10`` is assigned ``10:30 AM;ten_thirty_am;20``
+Name: <<Brock>>
+``Brock;brock;10`` is assigned ``2:00 PM;two_pm;20``
+Name: <<Charles>>
+``Charles;charles;10`` is ``not assigned a timeslot;not_assigned;20``
+Name: <<>>

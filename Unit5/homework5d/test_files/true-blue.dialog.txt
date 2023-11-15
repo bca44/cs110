@@ -1,0 +1,25 @@
+Phrase: <<Bird.>>
+Phrase: <<The bird is blue.>>
+Phrase: <<Cougars are not usually blue.>>
+Phrase: <<At BYU, cougars are often blue.>>
+Phrase: <<Dog.>>
+Phrase: <<BYU cougars wear blue.>>
+Phrase: <<Cougar.>>
+Phrase: <<Do you wear BYU blue?>>
+Phrase: <<>>
+``0:
+Bird.
+Dog.;zeros;20``
+
+``1:
+The bird is blue.
+Cougar.;ones;20``
+
+``2:
+Cougars are not usually blue.
+Do you wear BYU blue?;twos;20``
+
+``3:
+At BYU, cougars are often blue.
+BYU cougars wear blue.;threes;20``
+

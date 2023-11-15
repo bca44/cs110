@@ -1,0 +1,16 @@
+Word 1: <<money>>
+Word 2: <<honey>>
+``.****;money-honey;20``
+Word 1: <<crate>>
+Word 2: <<rates>>
+``.....;all different;20``
+Word 1: <<when>>
+Word 2: <<what>>
+``**..;when-what;20``
+Word 1: <<super>>
+Word 2: <<duper>>
+``.****;super-duper;20``
+Word 1: <<hello>>
+Word 2: <<world>>
+``...*.;hello-world;20``
+Word 1: <<>>

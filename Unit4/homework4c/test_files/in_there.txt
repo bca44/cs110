@@ -1,0 +1,10 @@
+Guess: <<dog>>``
+Nope.;nope-dog;20``
+Guess: <<cougar>>``
+It's in there...;cougar-in;20``
+Guess: <<ug>>``
+Nope.;ug-nope;10``
+Guess: <<gar>>``
+It's in there...;gar-in;20``
+Guess: <<ar>>``
+You got it!;ar-match;20``

@@ -1,0 +1,19 @@
+Enter the title, author, and pages of each book.
+End with a blank title.
+Title: <<Mere Christianity>>
+Author: <<C.S. Lewis>>
+Pages: <<175>>
+Title: <<The Lion, the Witch, and the Wardrobe>>
+Author: <<C.S. Lewis>>
+Pages: <<208>>
+Title: <<The Skrewtape Letters>>
+Author: <<C.S. Lewis>>
+Pages: <<160>>
+Title: <<The Hobbit>>
+Author: <<J. R. R. Tolkein>>
+Pages: <<310>>
+Title: <<>>
+Enter an author to report on.
+Author: <<C.S. Lewis>>
+You have read ``3;number-of-books;30`` books by ``C.S. Lewis;author;10``.
+You have read ``543;number-of-pages;30`` pages by ``C.S. Lewis;author2;10``.

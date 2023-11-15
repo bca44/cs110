@@ -1,0 +1,1 @@
+The average income of ``Lawyer;profession;10`` is ``75000;average;80``

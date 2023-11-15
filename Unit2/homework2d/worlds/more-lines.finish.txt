@@ -1,0 +1,8 @@
+----bbbbbb------rrrr-
+--gg---------ggggg---
+---rrrrr--bbbbbbbbbb-
+---------------------
+-ggggg--rrrrr----bb--
+---rrrrr------bbbb---
+0 0
+0

@@ -1,0 +1,21 @@
+Name: <<Charmander>>
+Type: <<Fire>>
+HP: <<39>>
+Name: <<Squirtle>>
+Type: <<Water>>
+HP: <<44>>
+Name: <<Blastoise>>
+Type: <<Water>>
+HP: <<79>>
+Name: <<Charizard>>
+Type: <<Fire>>
+HP: <<78>>
+Name: <<Rattata>>
+Type: <<Normal>>
+HP: <<30>>
+Name: <<Mudkip>>
+Type: <<Water>>
+HP: <<50>>
+Name: <<>>
+Get max HP for type: <<Water>>
+``Blastoise;pokemon;30`` has the highest HP (``79;hp;30``) for type ``Water;type;20``.

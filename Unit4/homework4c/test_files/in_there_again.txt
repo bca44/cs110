@@ -1,0 +1,10 @@
+Guess: <<Cows in the field>>``
+Nope.;nope-cows;20``
+Guess: <<ducks on the pond>>``
+It's in there...;in-duck-pond;20``
+Guess: <<pond>>``
+Nope.;nope-pond;10``
+Guess: <<ducks>>``
+It's in there...;in-ducks;20``
+Guess: <<duck>>``
+You got it!;duck-match;20``

@@ -1,0 +1,24 @@
+Enter ratings for this class.
+Each rating includes a score and a comment.
+Use a blank score to end.
+Score: <<9.5>>
+Comment: <<The professors were passionate about what they were teaching. I couldn't help but get sucked right into it>>
+Score: <<7>>
+Comment: <<Really hard class>>
+Score: <<8.2>>
+Comment: <<the teacher was really nice but I didn't understand their style of teaching>>
+Score: <<5.1>>
+Comment: <<Dont take this class>>
+Score: <<9.8>>
+Comment: <<Favorite class I've taken!>>
+Score: <<9.4>>
+Comment: <<The TAs were extremely patient and helpful :)>>
+Score: <<>>
+Average rating: <<8.2>>
+Comments:
+``- The professors were passionate about what they were teaching. I couldn't help but get sucked right into it
+- Really hard class
+- the teacher was really nice but I didn't understand their style of teaching
+- Dont take this class
+- Favorite class I've taken!
+- The TAs were extremely patient and helpful :);comments;80``

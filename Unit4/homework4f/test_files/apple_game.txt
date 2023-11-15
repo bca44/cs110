@@ -1,0 +1,10 @@
+Guess a word: <<cheese>>
+``close;cheese;20``
+Guess a word: <<ox>>
+``nope;ox;20``
+Guess a word: <<banana>>
+``close;banana;20``
+Guess a word: <<app>>
+``almost;app;20``
+Guess a word: <<apple>>
+``That's it!;apple;20``

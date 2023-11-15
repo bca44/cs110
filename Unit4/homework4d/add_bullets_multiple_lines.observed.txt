@@ -1,0 +1,3 @@
+o This is a boring file.
+o It needs some pizzaz.
+o Like bullets at the front of each line.

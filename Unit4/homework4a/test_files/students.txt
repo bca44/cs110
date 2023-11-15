@@ -1,0 +1,14 @@
+Enter a student.
+Name: <<Davis>>
+Hometown: <<Provo>>
+School: <<BYU>>
+Enter a student.
+Name: <<Jane>>
+Hometown: <<Orem>>
+School: <<UVU>>
+Enter a student.
+Name: <<>>
+BYU Students:``
+- DAVIS;byu-students;50``
+Other Students:``
+- Jane;uvu-students;30``

@@ -1,0 +1,8 @@
+Guess a word: <<a>>
+``almost;a;20``
+Guess a word: <<banana>>
+``close;banana;20``
+Guess a word: <<grape>>
+``almost;grape;20``
+Guess a word: <<grapefruit>>
+``That's it!;grapefruit;20``

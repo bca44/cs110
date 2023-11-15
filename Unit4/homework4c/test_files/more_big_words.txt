@@ -1,0 +1,14 @@
+Word: <<word>>
+Word: <<horse>>
+Word: <<cow>>``
+Too short.;cow-short;30``
+Word: <<duck>>
+Word: <<it>>``
+Too short.;it-short;30``
+Word: <<tree>>
+Word: <<grass>>``
+- word
+- horse
+- duck
+- tree
+- grass;list;30``

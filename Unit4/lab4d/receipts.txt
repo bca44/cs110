@@ -1,0 +1,10 @@
+Purchase by: Gordon Bean
+Item: 50 cases of diet coke
+Amount: $500
+Card: 2355-4456-8301-2213
+
+Purchase by: Xinru Page
+Item: 30 rose bushes, assorted varieties
+Amount: $285
+Card: 9043-2613-8814-9131
+ 

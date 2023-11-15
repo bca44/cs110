@@ -1,0 +1,14 @@
+Word: <<word>>
+Word: <<cat>>
+Word: <<at>>``
+Too short.;at-short;30``
+Word: <<I>>``
+Too short.;i-short;30``
+Word: <<dog>>
+Word: <<goat>>
+Word: <<cow>>``
+- word
+- cat
+- dog
+- goat
+- cow;list;30``

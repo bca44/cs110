@@ -1,0 +1,9 @@
+Characters to block: <<aeiou>>
+Replacement: <<->>
+Word: <<slyly>>
+``slyly;no-replace;20``
+Word: <<cheese>>
+``ch--s-;basic-replace;20``
+Word: <<BYU>>
+``BY-;casing;40``
+Word: <<>>

@@ -1,0 +1,1 @@
+{``'IND': 24, 'NYK': 16, 'BOS': 37, 'MEM': 29, 'TOR': 22, 'OKC': 25, 'DET': 41, 'LAC': 36, 'GSW': 45, 'PHI': 38, 'UTA': 34, 'SAC': 34, 'CLE': 35, 'HOU': 45, 'POR': 33, 'ATL': 41, 'ORL': 39, 'MIL': 33, 'PHX': 46, 'MIN': 43, 'DAL': 41, 'DEN': 46, 'MIA': 39, 'WAS': 44, 'BKN': 26, 'CHA': 28, 'SAS': 18, 'LAL': 29, 'CHI': 33;dict_val;90``}

@@ -1,0 +1,3 @@
+* * This is an exciting file.
+* * It has some pizzaz.
+* * Like bullets at the front of each line. 

@@ -1,0 +1,33 @@
+Name: <<Ghastly>>
+Type: <<Ghost>>
+HP: <<30>>
+Name: <<Haunter>>
+Type: <<Ghost>>
+HP: <<45>>
+Name: <<Drowzee>>
+Type: <<Psychic>>
+HP: <<60>>
+Name: <<Onix>>
+Type: <<Rock>>
+HP: <<35>>
+Name: <<Machop>>
+Type: <<Fighting>>
+HP: <<70>>
+Name: <<Machamp>>
+Type: <<Fighting>>
+HP: <<90>>
+Name: <<Weepingbell>>
+Type: <<Grass>>
+HP: <<65>>
+Name: <<Magnemite>>
+Type: <<Electric>>
+HP: <<25>>
+Name: <<Muk>>
+Type: <<Poison>>
+HP: <<105>>
+Name: <<Lucario>>
+Type: <<Fighting>>
+HP: <<70>>
+Name: <<>>
+Get max HP for type: <<Fighting>>
+``Machamp;pokemon;30`` has the highest HP (``90;hp;30``) for type ``Fighting;type;20``.

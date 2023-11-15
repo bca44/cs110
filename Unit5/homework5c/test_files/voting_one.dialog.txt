@@ -1,0 +1,7 @@
+Favorite Cereal: <<Frosted Flakes>>
+Favorite Cereal: <<Honey-Nut Cheerios>>
+Favorite Cereal: <<Frosted Flakes>>
+Favorite Cereal: <<Frosted Flakes>>
+Favorite Cereal: <<Life>>
+Favorite Cereal: <<>>
+{'Frosted Flakes': ``3;mult_votes;30``, 'Honey-Nut Cheerios': ``1;single_vote;30``, 'Life': 1``};dictionary;20``

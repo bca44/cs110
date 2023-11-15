@@ -1,0 +1,17 @@
+Date idea: <<Running>>
+Date cost: <<0>>
+Date idea: <<Ice Cream>>
+Date cost: <<15>>
+Date idea: <<Bowling>>
+Date cost: <<20>>
+Date idea: <<Fancy Dinner>>
+Date cost: <<70>>
+Date idea: <<Hiking the Y>>
+Date cost: <<0>>
+Date idea: <<>>
+Get max cost for date: <<20>>
+Here are all the dates below $``20;cost;20``:
+``- Running costs $0.
+- Ice Cream costs $15.
+- Bowling costs $20.
+- Hiking the Y costs $0.;date-list;60``

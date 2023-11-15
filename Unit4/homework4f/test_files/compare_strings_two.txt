@@ -1,0 +1,10 @@
+Word 1: <<four>>
+Word 2: <<four>>
+``****;all same;25``
+Word 1: <<cat>>
+Word 2: <<dog>>
+``...;all different;25``
+Word 1: <<potato>>
+Word 2: <<tomato>>
+``.*.***;variation;50``
+Word 1: <<>>
