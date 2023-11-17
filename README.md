@@ -1,2 +1,2 @@
 # cs110
-cs110 @ BYU with Doctor Angela Jones
+cs110 @ BYU with Dr. Angela Jones
